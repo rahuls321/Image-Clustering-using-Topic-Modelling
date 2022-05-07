@@ -1,11 +1,5 @@
 CS657A: Group Project
-Group 12 - Image Clustering using Topic Modelling
-
-Group Members - 
-1.  Rahul Kumar (21111069) - rahulkumar21@iitk.ac.in
-2.  Nishant Kiran Valvi (21111407) - nkiranv21@iitk.ac.in
-3.  Sandeep Saket (21111055) - sandeeps21@iitk.ac.in
-4.  Rakesh (21111051) - rakesh21@iitk.ac.in
+Topic - Image Clustering using Topic Modelling
 
 Abstract - 
 
